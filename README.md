@@ -44,8 +44,6 @@ Placing elements on top of each other is known as "stacking". You can achieve th
 Part 3 - Social Media Buttons
 Self-made social media buttons are always nice to have. These are very fancy; there's even a little animation!
 
-You'll be recreating this:
-
 
 Specifications part 3
 Design & interactions
@@ -88,18 +86,19 @@ In this last case, use the following code:
 .fa-laptop-code::before {
     content: "\f5fc";
 }
+
 .fa-twitter::before {
     content: "\f099";
 }
+
 .fa-linkedin-in::before {
     content: "\f0e1";
 }
 .fa-facebook-f::before {
     content: "\f39e";
 }
+
 .fa-github::before {
     content: "\f09b";
 }
-Submitting
 
-We've created a separate submission page for this assignment. Please go to the next page to submit it.
