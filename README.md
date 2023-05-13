@@ -1,6 +1,11 @@
 # Advanced_css
+
 Opdracht advanced_css-2 Frieda Haringsma
-Assignment: Advanced CSS
+Assignment: Advanced CSS WincAcademy
+
+live-preview:
+https://advanced-css-assignement.netlify.app/
+
 It's now time to lift your CSS skills to a new level with the following CSS challenges. In a real-world scenario, you as a developer will likely be given designs made by a UX department that you'll have to convert to code. That is exactly what you'll be doing today: you'll be turning a design into code! That means there are going to be multiple ways to achieve the desired result. Use your skills to come up with the solution you think is best. Recreate each design using HTML and CSS. You should not need to use JavaScript.
 
 The assignment consists of 3 CSS challenges, each one being a little more difficult than the previous one.
